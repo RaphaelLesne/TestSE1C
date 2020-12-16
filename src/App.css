@@ -1,0 +1,27 @@
+.App {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+.App_logo {
+  height: 15vmin;
+  pointer-events: none;
+  color: white;
+  position: relative;
+  top: 80px;
+}
+
+.App_header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: #ffffff;
+}
+
+.linear_gradient {
+  background: linear-gradient(#546E7A, #92B6C8);
+}
+

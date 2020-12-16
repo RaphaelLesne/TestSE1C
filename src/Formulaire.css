@@ -1,0 +1,71 @@
+.Formulaire_email {
+    margin: auto;
+    position: relative;
+    top: 235px;
+}
+
+.Formulaire_password {
+    margin: auto;
+    position: relative;
+    top: 245px;
+}
+
+.Formulaire_button {
+    margin: auto;
+    position: relative;
+    top: 250px;
+}
+
+input {
+    height: 44px;
+    width: 60%;;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-left: none;
+    font-size: 20px;
+}
+
+button {
+    height: 48px;
+    width: 67%;
+    background-color: #546E7A;
+    border-radius: 4px;
+    border-color: #546E7A;
+    font-size: 20px;
+    color: white;
+}
+
+.Formulaire_identity {
+    height: 48px;
+    width: 50px;
+    pointer-events: none;
+    color: #6D6D6D;
+    background-color: #C4C4C4;
+    display: inline-block;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-right: none;
+}
+
+.Formulaire_lock {
+    height: 48px;
+    width: 50px;
+    pointer-events: none;
+    color: #6D6D6D;
+    background-color: #C4C4C4;
+    display: inline-block;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-right: none;
+}
+
+.identity {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.lock {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
